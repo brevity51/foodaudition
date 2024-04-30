@@ -1,13 +1,13 @@
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAhOh5JYfqauFu_FdD3wZ-ApUSSvuOR-A0",
-  authDomain: "foodbuckle.firebaseapp.com",
-  databaseURL: "https://foodbuckle-default-rtdb.firebaseio.com",
-  projectId: "foodbuckle",
-  storageBucket: "foodbuckle.appspot.com",
-  messagingSenderId: "181629136767",
-  appId: "1:181629136767:web:3ac65d90853f644da5b44a"
+  apiKey: "AIzaSyA1yg8x3ZkPpIx2OI_E1464aOz-ZLVKMEY",
+  authDomain: "vidaacookflix.firebaseapp.com",
+  databaseURL: "https://vidaacookflix-default-rtdb.firebaseio.com",
+  projectId: "vidaacookflix",
+  storageBucket: "vidaacookflix.appspot.com",
+  messagingSenderId: "2183746864",
+  appId: "1:2183746864:web:ec70bc57b70d6b19d1a4f5"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();

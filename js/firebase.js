@@ -1,13 +1,13 @@
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyA1yg8x3ZkPpIx2OI_E1464aOz-ZLVKMEY",
-  authDomain: "vidaacookflix.firebaseapp.com",
-  databaseURL: "https://vidaacookflix-default-rtdb.firebaseio.com",
-  projectId: "vidaacookflix",
-  storageBucket: "vidaacookflix.appspot.com",
-  messagingSenderId: "2183746864",
-  appId: "1:2183746864:web:ec70bc57b70d6b19d1a4f5"
+  apiKey: "AIzaSyB7MTsozVyC_xl-ZPgP-vJUiQXTbxQ0pXg",
+  authDomain: "foodauditio.firebaseapp.com",
+  databaseURL: "https://foodauditio-default-rtdb.firebaseio.com",
+  projectId: "foodauditio",
+  storageBucket: "foodauditio.firebasestorage.app",
+  messagingSenderId: "1024555995865",
+  appId: "1:1024555995865:web:4e08e6243c68c96a2a24c8"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
